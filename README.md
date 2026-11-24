@@ -1,6 +1,5 @@
 # Ascart
 ### Asart is a free-to-use platform created solely by me, Haqwhd, dedicated to sharing Ascii art with people.
-### No homepage yet as I am still designing it; GitHub Pages link is useless as of now.
 ---
 #### More description to come as I commit.
 ###### I am not associated with [emojicombos.com](https://emojicombos.com), I just like their image-to-dot art converter.
